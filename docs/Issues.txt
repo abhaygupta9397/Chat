@@ -1,0 +1,4 @@
+1) npm i bcrypt did not worked on the bash but worked on the cmd ?
+   SOLVED
+
+2)   
